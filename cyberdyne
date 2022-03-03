@@ -1,0 +1,131 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&family=ZCOOL+QingKe+HuangYou&display=swap" rel="stylesheet">
+
+<style>
+#main-doc {
+  margin: 0px 0px 0px 330px;
+}
+.main-section {
+  padding: 10px 0 20px 0;
+}
+#navbar {
+  box-shadow: 0 20px 20px 20px rgba(0,0,0,0.19), 0px 6px 6px 2px rgba(0,0,0,1);
+  height: 434px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 300px;
+}
+.nav-link {
+  margin: 30px;
+  font-family: "ZCOOL QingKe HuangYou";
+  text-decoration: none;
+  color: black;
+}
+.body {
+  
+}
+#introduction {
+  
+}
+#what_we_know {
+  
+}
+#what_we_do_not_know {
+  
+}
+#the_variables {
+  
+}
+#how_it_ends {
+  
+}
+@media screen and (max-height: 450px) {
+   # navbar  {padding-top: 15px;}
+   #navbar  a {font-size: 18px;}
+ }
+header {
+  font-family: "ZCOOL QingKe HuangYou";
+  font-size: 40px;
+}
+.cyber-img {
+  height: 200px;
+  padding: 12px;
+}
+p {
+  font-family: "Tenali Ramakrishna";
+  font-size: 22px;
+}
+a:hover {
+  color: red;
+}
+</style>
+
+<body class="body">
+  <nav id="navbar">
+    <header>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFAK9HWvIcsmvNfxp5Oxmy6V1b46f4Eg88vQ&usqp=CAU" class="cyber-img" alt="Cyberdyne Systems logo">
+    </header>
+    <hr>
+    <hr>
+    <a class="nav-link" href="#introduction">Introduction</a>
+    <hr>
+    <a class="nav-link" href="#what_we_know">What We Know</a>
+    <hr>
+    <a class="nav-link" href="#what_we_do_not_know">What We Do Not Know</a>
+    <hr>
+    <a class="nav-link" href="#the_variables">The Variables</a>
+    <hr>
+    <a class="nav-link" href="#how_it_ends">How It Ends</a>
+  </nav>
+<main id="main-doc">
+  <section class="main-section" id="introduction">
+    <header>Introduction</header>
+    <p>Lorem ipsum dolor sit amet. Aut ratione tempore aut magni voluptate qui cupiditate <s>distinctio aut architecto accusamus.</s> Ex deleniti harum hic quia voluptas eos dignissimos animi eum autem provident rem voluptas magnam. <s>Rem quam omnis ex accusamus dolor et vero enim id quam sapiente cum omnis nulla qui beatae consequuntur nam galisum necessitatibus?</p>
+    <p>Et consequatur inventore non rerum quia et omnis eius eos reprehenderit neque.</s> Et odit ipsam sit quos assumenda 33 dicta rerum qui natus tenetur et similique suscipit. Et quam dolorum non iusto corrupti ea enim voluptatem et inventore iste non totam unde est eligendi ipsum sit ratione galisum. Et enim eaque est voluptates suscipit qui amet iste hic temporibus tenetur.</p>
+    <code></code>
+  </section>
+  <hr>
+  <section class="main-section" id="what_we_know">
+    <header>What We Know</header>
+    <p>Est facere omnis ab exercitationem fugiat ut atque quia et rerum omnis ad amet fugiat eum earum dolorem! Aut itaque obcaecati ut corporis neque aut consectetur dolor sed amet corporis. <s>In nemo nihil ut quidem facere est veritatis doloremque 33 culpa facere qui illo eaque aut aperiam quas et consequatur quaerat!</s></p>
+    <p>Aut labore dolores sit rerum deleniti et ipsam molestiae At quia galisum non sequi quam et magnam minima et provident dignissimos. Ut consequatur aliquid est quasi sint quo dolorem architecto est aperiam doloribus? <s>Sit explicabo voluptate</s> sed sequi doloribus <s>cum esse quas ad</s> reprehenderit quae est atque ipsa ut adipisci dolor eos magnam facere. Non aliquam cupiditate rem quae dolore id enim voluptate vel soluta optio.</p>
+    <ul>
+      <li>Et aperiam voluptatum aut dolor doloribus.</li>
+      <li>Eos atque quia et officiis officia sed error quam aut modi porro!</li>
+      <li>Officiis facilis sed distinctio quae cum laudantium ipsa.</li>
+    </ul>
+    <code></code>
+  </section>
+  <hr>
+  <section class="main-section" id="what_we_do_not_know">
+    <header>What We Do Not Know</header>
+    <p><s>Lorem ipsum dolor sit amet. Est repellat eaque ut odio cupiditate eos provident voluptatibus ex maiores velit ex ullam accusantium ut amet reiciendis assumenda illum.</s> Id laborum magnam aut voluptate omnis et magni odit.</p>
+    <p>At laboriosam deleniti non rerum modi et ipsam quas et dolores asperiores ut fugit nihil ea voluptatem animi et saepe impedit. <s>Aut mollitia quam qui explicabo temporibus ut consectetur ipsum sit perspiciatis quaerat ex saepe dolores.</s></p>
+    <ul>
+      <li>Aut tempora corporis ut consequatur obcaecati.</li>
+      <li>Ea possimus maiores ut enim necessitatibus.</li>
+    </ul>
+    <code></code>
+  </section>
+  <hr>
+  <section class="main-section" id="the_variables">
+    <header>The Variables</header>
+    <p>Sed mollitia tempora et alias perspiciatis 33 voluptas consectetur sit perspiciatis molestiae est distinctio debitis qui accusamus enim. In eveniet harum quo illum assumenda ea autem alias sit cupiditate velit sed laboriosam laboriosam.</p>
+    <p>Est omnis maxime in eaque dolorem non sint enim eos placeat quos est tenetur provident et autem <s>dignissimos.</s> Et quia illum qui fuga qui accusantium itaque ut internos doloribus eum laborum tenetur?</p>
+    <code></code>
+  </section>
+  <hr>
+  <section class="main-section" id="how_it_ends">
+    <header>How It Ends</header>
+    <p>Lorem ipsum dolor sit amet. Est error excepturi vel consequatur tenetur sed facilis pariatur. Aut dolorem consequatur est sint dolores est labore architecto eum tenetur voluptatibus.</p>
+    <p>Lorem ipsum dolor <s>sit amet.</s> Ab tempora facilis sit voluptas cupiditate ex quia ratione. Et molestias consequatur eos iure nihil et nesciunt alias qui similique sint et corporis dolorum non culpa optio. Aut quia nostrum et doloremque consequatur qui perspiciatis delectus quo dolor <s>mollitia.</s></p>
+    <code></code>
+  </section>
+</main>
+</body>
